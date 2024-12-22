@@ -1,0 +1,4 @@
+train: ../train/images
+val: ../valid/images
+nc: number_of_class
+names: ['class name 1', 'class name 2', '...']
