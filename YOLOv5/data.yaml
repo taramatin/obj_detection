@@ -1,0 +1,8 @@
+path: path/to/dataset
+train: path/to/train
+val: path/to/valid
+nc: number_of_class
+names:
+  0: class name 2
+  1: class name 1
+  ...
